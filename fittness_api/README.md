@@ -1,16 +1,4 @@
-# fittness_api
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fittness App
+![1](https://user-images.githubusercontent.com/124803980/217605859-66730402-2db6-4b59-98a2-b7be5c01827f.PNG)
+![2](https://user-images.githubusercontent.com/124803980/217605884-57fe6470-98fb-4b5f-9ed4-f5901e3f1ffa.PNG)
+![3](https://user-images.githubusercontent.com/124803980/217605891-4ceecf78-1441-42f9-aac6-46e1830040f2.PNG)
